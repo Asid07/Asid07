@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asid07
 - 👀 I’m interested in Robotics & Artificial Intelligence 
 - 🌱 I’m currently working on AI-integrated Autonomous Robot 
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on Robotics & AI stuff
 - 📫 How to reach me ahsiddiqi72@gmail.com
 
 <!---
